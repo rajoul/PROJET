@@ -1,0 +1,12 @@
+all subscribers will have their affiliation to defense
+Isabel Validation Authority provides any relying party with a way of obtaining Isabel Certificate revocation status.
+Isabel Validation Authority provides certificate validated
+Isabel Certificate Subscriber
+the CA SHALL establish a process that allows an Applicant to specify the individuals who may request Certificates
+If an Applicant specifies, in writing, the individuals who may request a Certificate, then the CA SHALL NOT accept any certificate requests that are outside this specification
+The CA SHALL provide an Applicant with a list of its authorized certificate requesters upon the Applicant�s verified written request
+the CA shall validate the subscriber authority to act in the name of the organization
+the CA shall validate that the individual either holds that role or has been delegated the authority to sign on behalf of the role
+the CA MAY establish the authenticity of the certificate request directly with the Applicant Representative or with an authoritative source within the Applicant�s organization
+The CA maintains controls to provide reasonable assurance that Subscriber�s certificate requests are accurate, authorized and complete
+the CA SHALL use a Reliable Method of Communication to verify the authenticity of the Applicant Representative�s certificate request

@@ -1,0 +1,15 @@
+﻿CA have the role of RA
+CA verify subscriber’s (or user) identity
+CA verifying subscriber’s (or user) identity
+Identity has been authenticated by a CA
+CA test subscriber’s (or user) identity
+identity is been verified
+CA issue Certificates to End Entities 
+CA issue Certificates to manage End Entity Certificates
+CA issue Certificates to revoke End Entity Certificates
+A certification authority is also referred to as the Issuing Authority to denote the purpose of issuing certificates
+A Certification Authority, is an organization that issues digital certificates to be used in public or private domains, within a business framework, a transaction context
+An entity that is trusted to associate a public key to the information on the subject, contained in the certificate
+issues, suspends, or revokes a digital certificate
+may have practices which exceed the minimum requirements set forth by these policies
+CAs may also describe practices that cover topics for which there is no stipulation in this CP

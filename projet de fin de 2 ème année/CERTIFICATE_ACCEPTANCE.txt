@@ -1,0 +1,12 @@
+﻿The Subscriber  is  deemed  to  have  accepted  a  certificate  when  they  have  signed  the  Subscriber 
+Agreement and exercised the private key. 
+For the FBCA, failure to object to the certificate or its contents constitutes acceptance of
+the certificate.
+Then the end user must click on the button “I agree” or “Cancel”
+Certificate acceptance shall take place as part of or as a result of the CA Creation Ceremony
+The Subject shall securely obtain the Key Pair and/or Certificate through the respective RA
+The reasoning for rejection including any fields in the certificate that contain erroneous information must also be submitted
+might post the issued certificate on a repository
+reserves its right to notify the certificate issuance
+complete and accurate certificates are available to subscribers and relying parties in accordance with the CA’s disclosed business practices
+the CA shall explain to the subscriber its responsibilities and obtain the subscriber's acknowledgement

@@ -1,0 +1,15 @@
+RA issues CA certificates
+RA is allowed to issue certificates
+RA(registration authority/or RAs registration authorities)
+RA verifie certificate
+RA is responsible for authentification and verification
+RA is responsible for establishing an environment and procedure for Certificate Applicants to submit their Certificate Applications
+RA is responsible for approval or rejection of Certificate Applications
+RA is responsible for validation of Certificate revocations
+RA is responsible for identification and Authentication of Subjects submitting requests seeking a new Certificate following a re-keying
+process and for Certificates issued in response to approved re-keying requests
+RA is responsible for establishing an environment and procedure for distributing to Subjects their Activation Data, Key Pairs and
+Certificate on media (Personal Security Environment orPSE)
+The RA does not issue certificates
+An entity that has the responsibility to identify and authenticate subscribers
+It merely requests the issuance of a certificate on behalf of applicants whose identity it has verified
