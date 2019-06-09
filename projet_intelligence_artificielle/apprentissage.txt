@@ -1,0 +1,400 @@
+por_Eu me lembro de ter visto este filme.
+por_Ontem o despertador não tocou e Kurt não acordou.
+por_O custo de vida aumentou drasticamente.
+por_Essa é minha amiga Rachel, nós fomos juntos ao colégio.
+por_Eu estou com vergonha de mim mesmo.
+por_É impossível aprender inglês em um mês.
+por_Onde vives?
+por_Eu tive sorte de ter conseguido achar uma boa babá.
+por_Amanhã ele irá aterrissar na lua.
+por_Eu me alegro de ouvir seus pensamentos sobre este tema.
+por_Eu frequentemente estudo enquanto ouço música.
+por_Quem é essa? É a tua mãe.
+por_Pode ser que eu desista em breve e, em vez disso, tire uma soneca.
+por_Tu consegues fazê-lo!
+por_Eu gosto muito disso.
+por_Enquanto houver vida, haverá esperança.
+por_Mulheres de verdade têm curvas.
+por_Jimmy tentou persuadir seus pais a deixá-lo cruzar o país com amigos.
+por_Confie em mim, disse ele.
+por_Queres deixar recado? Não, obrigado.
+por_Por favor me escreva logo de volta.
+por_Pense que estamos todos no mesmo barco!
+por_Não há solução.
+por_Ele estará de volta em uma hora.
+por_Ele disse que estava cansado e que portanto iria para casa mais cedo.
+por_Não há dúvidas.
+por_Eu lhe dou minha palavra.
+por_Teu cão morde?
+por_Nós não gostamos de chuva.
+por_Sim, suco de laranja, por favor, diz Mike.
+por_Ela nada em dinheiro.
+por_Quando se pede por dinheiro, deve-se aceitar certas condições.
+por_A bomba atômica é uma séria ameaça para a humanidade.
+por_Eu trabalho.
+por_Com sua roupa colorida, sua longa peruca e suas luvas brancas, poder-se-ia deduzir que ele fugiu de uma espécie de Disneylândia.
+por_Vamos, brinque comigo, estou tão entediado!
+por_Oi? Ainda estás aí?
+por_Eu li um livro durante a refeição.
+por_A mulher dele é francesa.
+por_Queres um suco de frutas?
+por_Sempre quando eu acho algo que me agrade, este algo é caro demais.
+por_Ele a fez sua esposa.
+por_Não precisas pagar por isto, isto é gratuito.
+por_A loja vende alimentos, tais como manteiga, queijo e açúcar.
+por_Em geral se sabe pouco acerca de equações diferenciais não-lineares de segunda ordem.
+por_A entrada inclui uma bebida.
+por_Eu comprei um novo automóvel.
+por_Não se casa com aquele com quem se pode viver - casa-se com a pessoa sem a qual não se pode viver.
+por_Do que estás a falar?
+por_Eu estou curioso.
+por_Vamos! Fale comigo, Trang.
+por_Tudo que alguém precisa saber sobre a vida eu aprendi com um boneco de neve.
+por_Desde que Mario mentiu para mim, eu não falo mais com ele.
+por_Em qual pasta salvaste o arquivo?
+por_O Japão é cheio de belas cidades. Kyoto e Nara, por exemplo.
+por_É muito gentil de vossa parte, respondeu Willie.
+por_Estás doente, tu precisas repousar.
+por_Faça boa viagem.
+por_Eu consegui superar o hábito de sempre achar culpa nos outros.
+por_É verdade que ela é jovem, mas ela é sábia.
+por_Eu estou tão cansado que mal posso andar.
+por_Ela parece conhecer a arte de escrever cartas.
+por_Eles se falam bastante, por telefone e pessoalmente.
+por_Eu nunca te vejo sem pensar no Ken.
+por_Ele nos disse para começarmos de uma vez por todas.
+por_Ele foi ferido na guerra.
+por_Há algumas boas maçãs na cesta.
+por_O que você gostaria de comer?
+por_Meu marido toma café da manhã enquanto lê o jornal.
+por_Ele dificilmente estuda química.
+por_Junko ainda depende de seus pais para bancá-la.
+por_Eu assisti TV ontem à noite.
+por_Ele voltou para casa da Europa em 1941, quando a guerra eclodiu.
+por_Ela secou seu cabelo molhado com uma toalha.
+por_Eles o julgaram culpado.
+por_Ele é um pouco como seu pai.
+por_Desligue a TV, já que está tarde.
+por_Se você vir um erro, corrija-o por favor.
+por_O velho tentou nadar 5 quilômetros.
+por_Eu gostaria de viajar para países estrangeiros enquanto o iene estiver forte.
+por_Há apenas uma loja na ilha.
+por_Ela ficou inconsciente por todo o dia que se seguiu ao acidente.
+por_Você pode se levantar da mesa de exames agora.
+por_Até onde eu sei, o tópico é digno de ser discutido.
+por_Nós todos fomos à festa, com a exceção de Joe.
+por_Eu me sinto melhor hoje.
+por_Eu estou ansioso pelo resultado.
+por_Ele nunca vai contra seus pais.
+por_Eu gostaria de vir às nove.
+por_Nossa casa foi assaltada enquanto estávamos fora.
+por_Como se usa essa câmera?
+por_Eu me pergunto o que aconteceu com ele.
+por_Você parece ter pensado em algo diferente.
+por_Eu lamento por lhe dar todo esse problema.
+por_Ele tem um olhar desagradável.
+por_Ela gosta de ouvir música clássica.
+por_Eu tomarei a providência que me parecer necessária.
+por_Isso não está acabado mesmo.
+por_A que horas você comeu?
+por_Espero te ver em breve.
+fra_De nos jours, la viande est chère.
+fra_Pourrons-nous aller sur la lune dans un futur proche ?
+fra_J'espère vous voir bientôt.
+fra_J'espère voir son film prochainement.
+fra_Avant longtemps, nous serons capables de communiquer l'un l'autre par vidéo-phone.
+fra_N'attendez de moi aucune aide sauf en cas d'urgence.
+fra_J'ai hâte d'avoir de tes nouvelles.
+fra_J'ai demandé une place en non-fumeur.
+fra_Ne fume pas quand tu es en service.
+fra_Ne fume pas pendant le travail.
+fra_Je te conseille d'arrêter de fumer.
+fra_Pourrions-nous avoir une table dans le coin non-fumeur ?
+fra_Je voudrais être assis dans le compartiment non-fumeur s'il vous plaît.
+fra_J'ai demandé une place dans la partie non-fumeur.
+fra_J'étais trop étonnée pour parler.
+fra_Elle est devenue riche grâce à un travail acharné et à un bon sens des affaires.
+fra_Ne m'effraie pas comme ça !
+fra_Il n'est pas seulement intéressé, il en est fou.
+fra_Un miroir reflète la lumière.
+fra_Son cœur battait d'excitation.
+fra_J'ai des brûlures d'estomac.
+fra_Attention au chien méchant.
+fra_Entrez par la petite porte.
+fra_Gardez votre salle de classe propre.
+fra_Connais-tu l'homme qui se tient debout sur le pont ?
+fra_C'est le devoir des étudiants de nettoyer leurs salles de classe.
+fra_On ôte son chapeau quand on entre dans une salle de classe.
+fra_Ne parlez pas en classe.
+fra_J'espère que ta salle de classe était climatisée.
+fra_La patience est essentielle pour un professeur.
+fra_Un professeur ne devrait jamais rire des erreurs de ses étudiants.
+fra_Il n'y a rien de plus important dans la vie que l'éducation.
+fra_Les gens veulent plus d'argent pour développer les institutions éducatives.
+fra_On érigea des églises dans toute l'île.
+fra_L'éducation est un élément critique.
+fra_L'éducation ne consiste pas seulement dans l'apprentissage pur et dur.
+fra_Les réformes de l'éducation ont encore un bout de chemin à faire.
+fra_L'éducation commence à la maison.
+fra_L'éducation représente plus que d'aller à l'école.
+fra_La peur naît toujours de l'ignorance.
+fra_Enseigner c'est apprendre.
+fra_Il fait horriblement froid aujourd'hui.
+fra_Un vent fort commença à souffler.
+fra_Désolé, nous sommes complets aujourd'hui.
+fra_Un voleur s'est introduit par effraction dans la maison pour voler de l'argent.
+fra_Il souffle un vent fort et je ne peux pas marcher vite.
+fra_Tant qu'il y a des nations souveraines détentrices d'un grand pouvoir, la guerre est inévitable.
+fra_Une république est une nation dirigée non par un roi ou une reine mais par un président.
+fra_Un yen fort secoue l'économie.
+fra_Kyoto était l'ancienne capitale du Japon.
+fra_Kyoto est connue pour ses temples anciens.
+fra_Kyoto vaut la peine d'être visitée.
+fra_Combien faut-il de temps pour aller au stade ?
+fra_Kyoto est visitée par beaucoup de gens chaque année.
+fra_Il y a beaucoup d'endroits à voir à Kyôto.
+fra_Je suis allé une fois à Kyoto.
+fra_À partir de l'aéroport, le Skyliner de la Keisei vous conduira à la gare d'Ueno en 75 minutes.
+fra_Penses-tu que les poissons puissent entendre ?
+fra_Les poissons vivent dans la mer.
+fra_Les poissons ne peuvent pas vivre hors de l'eau.
+fra_Les poissons sont des animaux à sang froid.
+fra_Je vais te montrer comment attraper un poisson.
+fra_Le poisson et la viande sont tous les deux nourrissants, mais la dernière est plus chère que le premier.
+fra_J'ai une arête coincée dans ma gorge.
+fra_J'ai manqué m'étrangler à cause d'une arête.
+fra_Je suis allergique au poisson.
+fra_Ne mange pas seulement du poisson mais aussi de la viande.
+fra_Un izakaya est un pub à la façon japonaise.
+fra_Un énorme déficit dans le budget fédéral empoisonne l'économie américaine depuis de nombreuses années.
+fra_J'ai perdu ma femme l'an dernier.
+fra_La ville est devenue populaire grâce au parc d'attractions construit l'an dernier.
+fra_Je n'oublierai jamais ma visite de Paris de l'été dernier.
+fra_Comparé à l'été dernier, nous n'avons pas eu autant de pluie cette année.
+fra_Le lait est une boisson populaire.
+fra_Du bœuf s'il vous plaît.
+fra_Le lait est un bon aliment.
+fra_Le bétail se nourrit d'herbe.
+fra_La vache nous donne du lait.
+fra_Les vaches nous donnent du lait.
+fra_Les vaches nous fournissent du bon lait.
+fra_Les vaches nous fournissent leur lait.
+fra_Les vaches sont plus utiles qu'aucun autre animal dans ce pays.
+fra_Les vaches nous donnent du lait et les poules, des œufs.
+fra_Une vache donne du lait.
+fra_Les vaches paissent dans le pré.
+fra_J'ai croisé un vieil ami.
+fra_Pourrais-je avoir une avance sur mon salaire ?
+fra_On m'a avancé cinq cents dollars sur ma paye.
+fra_Outre son salaire, il reçoit de l'argent de ses investissements.
+fra_De la part de mes camarades de classe, laissez-moi vous dire quelques mots de remerciement.
+fra_Le malheur ne vient jamais seul.
+fra_Je ne peux pas laisser tomber cette affaire.
+fra_Ça ne sert à rien de pleurer.
+fra_Demandez, et l'on vous donnera.
+fra_Appelez une ambulance.
+fra_Appelle une ambulance.
+fra_Combien pour l'express ?
+fra_J'ai besoin de voir quelqu'un dans la salle des urgences.
+fra_Dépêchez-vous, c'est urgent.
+fra_Dépêchons-nous ! Nous allons être en retard.
+ita_Trovo molto interessanti le lingue straniere.
+ita_Non mi piace imparare i verbi irregolari.
+ita_Prendi un libro e leggilo!
+ita_Affronta la vita sorridendo!
+ita_Mi fai sognare.
+ita_Non sto più in me dalla gioia.
+ita_Ormai è un uomo.
+ita_Le vacanze sono finite ora.
+ita_Ho paura di cadere.
+ita_È di rigore l'abito da sera.
+ita_È la pura verità.
+ita_Fa freddo.
+ita_Hai ragione.
+ita_L'hai fatto apposta!
+ita_Non gli hai detto nulla?
+ita_Mi hai fatto perdere la testa.
+ita_Sei il mio tipo.
+ita_Sei irresistibile.
+ita_Mi potresti ritelefonare più tardi, per favore?
+ita_Con chi parlo?
+ita_Lo accetto, ma c'è un se.
+ita_La vita è bella!
+ita_Non è bene sapere quando qualcosa di sgradevole accadrà, per esempio che si andrà dal dentista o in Francia.
+ita_Abbiamo vinto la battaglia.
+ita_Ho cominciato a studiare cinese la settimana scorsa.
+ita_Aaah!! Il mio computer è rotto!
+ita_I miei genitori rinnegherebbero mio fratello se scoprissero che è gay.
+ita_Mi piace molto il mio lavoro.
+ita_Ti ho sognato.
+ita_Per un momento ho pensato che fosse impazzito.
+ita_Quanti panini rimangono?
+ita_Voglio una caramella.
+ita_Non mi piace la scuola.
+ita_È scomparso senza lasciare tracce.
+ita_Avresti dovuto rifiutare una proposta così ingiusta.
+ita_L'essenza della matematica è la libertà.
+ita_L'essenza della libertà è la matematica.
+ita_Sono orgoglioso di far parte di questo progetto.
+ita_Dove vai?
+ita_Ha una faccia da funerale.
+ita_È impossibile.
+ita_Continuano a non piacermi Cavalieri, Tonelli e Fubini... e domani ho già il mio esame orale di analisi.
+ita_A quest'ora, c'è un traffico incredibile.
+ita_Voglio recuperare i miei oggetti di valore.
+ita_Sapresti per caso dove ho messo le mie chiavi?
+ita_Penso che sia un bene che i libri esistano ancora, però mi fanno venire voglia di dormire.
+ita_Si rivolga al mio collega.
+ita_Il dossier è stato inviato al Ministero.
+ita_Sono coraggiosi solo a parole.
+ita_Ti aspettano davanti alla porta.
+ita_Hai con te una matita?
+ita_Di chi è?
+ita_Da quando Mario mi ha mentito, non gli rivolgo più la parola.
+ita_Non è affare suo.
+ita_Prendi la tua roba e vattene.
+ita_È una brutta faccenda.
+ita_È fuori pericolo.
+ita_Non me lo faccio dire due volte.
+ita_Metti giù le mani!
+ita_Gli hacker scovano nuove maniere per intrufolarsi nelle reti private o pubbliche.
+ita_Per via della nebbia l'aereo è stato dirottato su Monaco.
+ita_Ride bene chi ride ultimo.
+ita_Quanto prima tanto meglio.
+ita_Non è del tutto esatto.
+ita_Non dimostra la sua età.
+ita_Ti piace il rap?
+ita_Mi piacciono i viaggi.
+ita_Da te proprio non me l'aspettavo.
+ita_Aspetto da ore.
+ita_Qui casca l'asino.
+ita_Non lo conosco.
+ita_Questo film mi è piaciuto.
+ita_Non importa.
+ita_Non mi importa.
+ita_Stavo per uscire quando squillò il telefono.
+ita_Guarda bene. Ora ti mostro come si fa.
+ita_Vado ogni mattina a fare la spesa.
+ita_La parola è d'argento ma il silenzio è d'oro.
+ita_Il fiume ha invaso tutta la regione.
+ita_La questione si è risolta da sola.
+ita_Questi discorsi non mi piacciono.
+ita_Lei non c'entra affatto.
+ita_Sono opinioni completamente opposte.
+ita_Non sono affatto convinta.
+ita_Perché volete partire oggi?
+ita_Vado a prendere la macchina.
+ita_È troppo bello per essere vero.
+ita_Assioma di Cole: La somma dell'intelligenza sulla Terra è costante; la popolazione è in aumento.
+ita_Meglio tardi che mai.
+ita_Il buongiorno si vede dal mattino.
+ita_Tale padre, tale figlio.
+ita_Peccato confessato, mezzo perdonato.
+ita_Finché c'è vita, c'è speranza.
+ita_Non l'ho fatto apposta.
+ita_Tutte le strade portano a Roma.
+ita_Le ore del mattino hanno l'oro in bocca.
+ita_Il mondo è fatto a scale, chi le scende e chi le sale.
+ita_Tutti gusti sono gusti.
+ita_Non si può cantare e portare croce.
+ita_Chi non combatte non riporta vittoria.
+spa_¡Aborrezco profundamente la escritura formal!
+spa_La gente extranjera me intriga.
+spa_Cualquier cosa que hago, ella dice que puedo hacerlo mejor.
+spa_¿Qué te mantiene despierto hasta tan tarde?
+spa_Te sorprendería lo que puedes aprender en una semana.
+spa_No tengo a nadie que viaje conmigo.
+spa_La vida es dura, pero yo soy más duro.
+spa_Soportar puede ser insoportable.
+spa_¡Para ya! ¡La estás haciendo sentir incómoda!
+spa_Sólo la verdad es bella.
+spa_Mañana, alunizará.
+spa_No hablo japonés.
+spa_Es un juego de palabras.
+spa_Nadie me entiende.
+spa_Aprendí a vivir sin ella.
+spa_No servirá de nada seguir pensando.
+spa_Tengo demasiadas cosas en la cabeza estos días.
+spa_Yo sólo quería revisar mis correos electrónicos.
+spa_¿Realmente necesitas preguntar para saber la respuesta?
+spa_¡No puedes esperar de mí que yo siempre piense en todo!
+spa_Supongo que detrás de cada cosa que tenemos que hacer, hay algo que queremos hacer...
+spa_Realmente no tienes las prioridades correctas.
+spa_¡No esperes que los demás piensen por ti!
+spa_¡Nunca tienes tiempo para las cosas importantes!
+spa_¡No vale la pena que hagas como que me haces creer que creo cosas que tú no crees!
+spa_Me llevaría demasiado tiempo explicarte por qué no va a funcionar.
+spa_Soy tan tonto... estoy intentando explicarte cosas que no entiendo ni yo.
+spa_¡Deja de mirarme como una persona normal!
+spa_Podrías al menos tratar de ser más cortés, aunque no sea tu naturaleza.
+spa_Siempre habrá cosas que nunca aprenderé, ¡no tengo toda la eternidad ante mí!
+spa_¡No puede ser!
+spa_¿Te gustaría beber algo?
+spa_¿Quién es? Es tu madre.
+spa_¿Cuándo volverás? Todo depende del clima.
+spa_—¿Qué pasa? —preguntó el pequeño conejo blanco.
+spa_¿Qué habrá en la cueva? Tengo curiosidad. No tengo ni idea.
+spa_—¿Cuál es tu deseo? —preguntó el pequeño conejo blanco.
+spa_A decir verdad, tengo vértigo. ¡Eres un cobarde!
+spa_Confía en mí, dijo él.
+spa_—¡Esto es lo que estaba buscando! —exclamó él.
+spa_—Esto parece muy interesante —dice Hiroshi.
+spa_El teléfono está sonando. Yo lo cogeré.
+spa_Gracias por ayudarme. No hay de qué.
+spa_Algún día correré como el viento.
+spa_A ella le gusta la música. A mí también.
+spa_Por favor, no llores.
+spa_Hazme saber si hay algo que yo pueda hacer.
+spa_Depende de ti decidir si vamos allí o no.
+spa_No comienza hasta las ocho y treinta.
+spa_Quiero un barco que me lleve lejos de aquí.
+spa_Tengo ganas de jugar a las cartas. Yo también.
+spa_Un japonés nunca haría tal cosa.
+spa_Allen es un poeta.
+spa_El arquero mató al ciervo.
+spa_Si ves un error, entonces corrígelo, por favor.
+spa_Los alemanes son muy listos.
+spa_Si no comes, te mueres.
+spa_¿Cómo se escribe pretty?
+spa_¿Por qué no nos vamos a casa?
+spa_Lo siento, no puedo quedarme mucho tiempo.
+spa_10 años es un largo tiempo para esperar.
+spa_¿Por qué no vas? Porque no quiero.
+spa_Un millón de personas perdieron la vida en la guerra.
+spa_Vine a Tokio hace tres años y he estado viviendo aquí desde entonces.
+spa_He vivido más de un mes en Nagoya.
+spa_No es del todo raro vivir más de 90 años.
+spa_Primero, voy a hacer un esquema de mi nuevo sitio de internet.
+spa_Cuando empieces a parecerte a la foto de tu pasaporte deberías irte de vacaciones.
+spa_¡No fui yo, comisario!
+spa_¡Oh, mis pantalones blancos! Eran nuevos.
+spa_Naturalmente, con tanta gente a su alrededor se puso un poco nervioso.
+spa_Al salir de la estación vi a un hombre.
+spa_¿Y nadie le ayudó?
+spa_¡Eres un ángel!
+spa_Los madrileños son unos locos.
+spa_Bueno, la noche es muy larga, ¿no?
+spa_Has tenido suerte de que no te haya mordido.
+spa_¿Me has echado de menos?
+spa_¿Son todos iguales?
+spa_¡Muchas gracias!
+spa_Por favor, ¿dónde están los huevos?
+spa_Lo tomo.
+spa_Es una sorpresa.
+spa_¡Esto es una buena idea!
+spa_¿Ida y vuelta? Sólo ida.
+spa_Es una pena cuando alguien muere.
+spa_Se quedaron con la boca abierta.
+spa_¡Caramba! ¡No está mal!
+spa_Estirar después del lavado.
+spa_Lavar antes de usar.
+spa_No abrir antes de que pare el tren.
+spa_Aquellos que viven en casas de cristal no deberían tirar piedras.
+spa_Se dice que el amor es ciego.
+spa_Oh, lo siento.
+spa_Las mates son como el amor: una idea simple, pero puede complicarse.
+spa_Las únicas respuestas útiles son las que plantean nuevas preguntas.
+spa_Dudar de sí mismo es la primera señal de inteligencia.
+spa_No es pobre quien tiene muy poco, sino quien ansía demasiado.
+spa_Viendo que no estás sorprendido, creo que debes estar al corriente.
+spa_¿Cuánto tiempo se tarda en llegar a la estación?

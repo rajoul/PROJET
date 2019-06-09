@@ -1,0 +1,120 @@
+por_Ele é o dono legal da empresa.
+por_Esse é o menino que me ajudou.
+por_Ele era extraordinariamente importante na sua vida.
+por_Assim é como nós fazemos.
+por_Ela entrou no táxi.
+por_Eu fui afetado pelo calor.
+por_Temos que fazer sem açúcar.
+por_Está marcado para ele chegar amanhã.
+por_Jim está com um chapéu branco na cabeça.
+por_Eu gosto muito de inglês.
+por_Onde você está?
+por_Nós tínhamos guias nativos na nossa viagem para a montanha.
+por_Ele não tinha a intenção de esperar por três horas.
+por_Diga para ele você mesmo.
+por_Eu coloquei meu dinheiro numa bolsa.
+por_Ele deu uma boa esperada.
+por_Você irá em breve.
+por_Os irmãos nasceram com 12 anos de diferença.
+por_Eu não quis dizer você.
+por_Ele ainda está na folha de pagamento da empresa.
+por_A sua teoria merece consideração.
+por_Você se importaria em vir e me ver no sábado?
+por_Ensinam japonês na sua escola agora?
+por_Vire à direita na segunda esquina.
+por_Nem todos estudantes estão presentes.
+por_Ela estava se sentindo meio cansada.
+por_É de graça?
+por_Troque os pneus velhos por pneus novos.
+por_Fico feliz que você tenha gostado do meu presente.
+por_Esse livro é bem novo.
+fra_La diplomatie consiste à faire et à dire les pires choses, de la plus belle façon.
+fra_Ne jugez pas un homme à son apparence.
+fra_Cire tes chaussures avant de sortir.
+fra_Sors.
+fra_Pourrait-on avoir une table à l'extérieur ?
+fra_Il a l'air de faire bon dehors.
+fra_Pourriez-vous le laisser sortir ?
+fra_Il joue dehors.
+fra_Je n'aime pas les coquillages.
+fra_Je suis tombé dans les escaliers et j'ai pris un grand coup dans le dos.
+fra_Je n'en ai pas la moindre idée.
+fra_Regarde l'image.
+fra_Tout le monde dit que c'est un homme bon.
+fra_Tout le monde a l'air d'être attentif à ce qu'il dit.
+fra_Je n'oublierai jamais que j'ai passé un bon moment avec vous.
+fra_Vous allez tous me manquer.
+fra_Tout le monde est arrivé à l'heure en classe.
+fra_Mesdames et Messieurs, par ici s'il vous plaît.
+fra_Bonjour tout le monde.
+fra_J'ai cassé ton cendrier.
+fra_Tout le monde a adopté une attitude hostile envers les immigrés clandestins.
+fra_On fait silence dans la bibliothèque, les garçons.
+fra_Un cendrier s'il vous plaît.
+fra_J'eus la chance de voyager à l'étranger.
+fra_Certaines personnes préfèrent la mer, d'autres préfèrent la montagne.
+fra_Je n'ai rien de particulier à dire.
+fra_Je pensais que ce serait une bonne idée de reprendre contact avec la culture et l'histoire japonaises.
+fra_J'aime parler du bon vieux temps.
+fra_Un comptable enregistre toutes les rentrées et toutes les dépenses de l'entreprise chaque semaine.
+fra_Certaines personnes ne recherchent que le plaisir.
+ita_Devo andare a dormire.
+ita_Che cos'è?
+ita_La parola d'accesso è Muiriel.
+ita_Non cambierà niente.
+ita_Costerà trenta euro.
+ita_Non ti preoccupare.
+ita_Mi manchi.
+ita_Sei sicuro?
+ita_E allora?
+ita_Per farlo, bisogna correre dei rischi.
+ita_Perché lo chiedi?
+ita_Non sono un artista. Non ho mai avuto lo spirito per queste cose.
+ita_L'innocenza è una cosa bella.
+ita_Non è importante.
+ita_Mi piacerebbe tanto andare in Giappone.
+ita_Mi volevi parlare di libertà?
+ita_Salvo che qui non è così semplice.
+ita_Ti amo.
+ita_Congratulazioni!
+ita_Neanch'io lo posso spiegare.
+ita_Non sei abbastanza veloce.
+ita_È un gioco di parole.
+ita_Non è possibile.
+ita_Chi è? È tua madre.
+ita_Ti prego, non piangere.
+ita_Come si scrive pretty?
+ita_Sei un angelo!
+ita_Andata e ritorno? Solo andata.
+ita_Mettere in forma dopo il lavaggio.
+ita_Non aprire prima che il treno sia fermo.
+spa_Las mujeres de verdad tienen curvas.
+spa_¿Por qué no podemos hacernos cosquillas a nosotros mismos?
+spa_La respuesta nos lleva a un círculo vicioso.
+spa_¿Qué? ¿Todavía no sabes conducir?
+spa_Y conmigo ya somos uno más.
+spa_¿Ya tienes barba?
+spa_Siento que soy libre.
+spa_Siento una quemazón en el estómago.
+spa_La libertad no es gratis.
+spa_¿Cómo provocar el deseo de una mujer?
+spa_El deseo emerge entre necesidad y demanda.
+spa_Mientras comíamos el postre crecía el deseo por viajar a este país.
+spa_¡Quiero un MP3!
+spa_¿Dónde estás?
+spa_¿Adónde vas?
+spa_El queso es un alimento sólido elaborado a partir de la leche de vaca, cabra, oveja u otros mamíferos.
+spa_Si no lo hago ahora, nunca lo haré.
+spa_Hay muchas cosas que no sabes sobre mi personalidad.
+spa_Quizás tengas razón, fui un egoísta.
+spa_Todo el mundo se merece una segunda oportunidad.
+spa_¿Cuál es la ventaja de esta tecnología?
+spa_Si usted no dispone de este programa puede descargarlo ahora.
+spa_El hombre propone, Dios dispone.
+spa_Cuando hablas con los demás, lo haces con los brazos cruzados.
+spa_Completa el siguiente formulario para saber quién pudiste haber sido en tu anterior vida.
+spa_González regala una bicicleta a todos sus empleados en Europa.
+spa_Hay 1000 películas que hay que ver antes de morir.
+spa_La creatividad es un aspecto importante para el desarrollo del ser humano.
+spa_La industria textil se adaptará a un mercado de libre competencia en los próximos años.
+spa_¿Tiene dificultades para comprender lo que le dicen mujeres o niños pequeños?
