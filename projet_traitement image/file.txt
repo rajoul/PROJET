@@ -1,0 +1,24 @@
+Le fichier robots.txt
+Le fichier robots.txt est un simple document texte qui est utilisé pour indiquer au Googlebot quelles sections d’un domaine peuvent être explorées par le robot du moteur de recherche et quelles sections doivent en être exclues. En outre, il est aussi possible d’y ajouter une référence au sitemap.XML.
+
+Avant que le robot d’exploration commence l’indexation, il recherche tout d’abord le fichier robots.txt dans le répertoire racine et prend connaissance des instructions. C’est pourquoi le fichier texte doit être sauvegardé dans le répertoire racine d’un domaine et être nommé : robots.txt.
+
+allow/disallow
+Le fichier robots.txt peut être simplement créé avec un éditeur de texte. Chaque fichier se compose de deux blocs. Tout d’abord, il faut spécifier l’user-agent pour lequel l’instruction doit s’appliquer, puis on ajoute une commande “Disallow” après avoir listé les URL qui doivent être exclues de l’exploration. 
+
+Avant de télécharger le fichier robots.txt dans le répertoire racine du site web, l’utilisateur se doit de vérifier la conformité du fichier. À la moindre erreur, le robot d’exploration peut ignorer les instructions et éventuellement inclure des pages qui ne devraient pas apparaître dans l’index du moteur de recherche.
+
+Cet outil gratuit de Ryte vous permet de tester votre fichier robots.txt. Vous avez seulement besoin de saisir l’URL correspondante et de sélectionner l’user-agent concerne. Après le clic sur “démarrer le test”, l’outil vérifie si l’exploration de l’URL en question est autorisée ou pas. Vous pouvez aussi utiliser Ryte FREE pour tester de nombreux autres facteurs de votre site web et analyser jusqu’à 100 URL. Cliquez simplement ici pour obtenir votre compte FREE »
+
+Voici la structure la plus simple du fichier robots.txt :
+User-agent: * 
+Disallow:
+
+Ce code donne l’autorisation au Googlebot d’explorer toutes les pages. Afin d’empêcher le robot d’explorer votre présence web dans son intégralité, vous pouvez ajouter le fichier robots.txt suivant :
+
+User-agent: * 
+Disallow: /
+
+Exemple : Si vous voulez empêcher que le répertoire /info/ ne soit pas exploré par le Googlebot, vous devez saisir l’instruction suivante :
+endendend
+jamais arrive ici a ce moment
